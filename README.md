@@ -13,7 +13,7 @@ This project is about Math magicians app, that allows users to make simple calcu
 
 ## Live Demo
 
-No live demo yet
+[Live Demo link](https://mre55.github.io/math-magicians/)
 
 ## Getting Started
 
