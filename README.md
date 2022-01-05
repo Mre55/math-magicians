@@ -1,6 +1,8 @@
 ## Math Magicians
 
-This project is about Math magicians app, that allows users to make simple calculations and read a random math-related quote.
+This project is about Math magicians Calculator App, that allows users to make simple calculations and read a random math-related quote.
+
+<img width="765" alt="Screen Shot 2021-12-08 at 6 16 50 PM" src="https://user-images.githubusercontent.com/34578631/148131975-8f1d3e8c-c3b9-4dc1-9d22-96c84ad2b193.png">
 
 
 ## Built With
@@ -13,7 +15,7 @@ This project is about Math magicians app, that allows users to make simple calcu
 
 ## Live Demo
 
-No live demo yet
+[Live Demo link](https://mre55.github.io/math-magicians/)
 
 ## Getting Started
 
