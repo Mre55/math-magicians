@@ -19,7 +19,7 @@ button {
 }
 
 .result-display {
-  padding: 15px;
+  padding-right: 10px;
   width: 100%;
   background-color: #9494a0;
   color: white;
