@@ -4,7 +4,9 @@ import calculate from '../logic/calculate';
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      total: '0',
+    };
   }
 
   onClickHandler = (e) => {
@@ -13,12 +15,15 @@ class Calculator extends React.Component {
   }
 
   render() {
-    const { next, total } = this.state;
+    const { next, total, operation } = this.state;
+
     return (
       <div className="calculator-container">
         <article className="article-class">
           <div className="result-display">
-            { next ?? total ?? 0 }
+            { total }
+            { operation }
+            { next }
           </div>
         </article>
         <article className="article-class">
