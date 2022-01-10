@@ -1,0 +1,25 @@
+.nav_class li {
+  list-style: none;
+  padding-right: 20px;
+  font-size: 25px;
+}
+
+.navBar {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+
+.navBar h2 {
+  font-size: 50px;
+}
+
+.navBar ul {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.nav_class li a {
+  color: white;
+}

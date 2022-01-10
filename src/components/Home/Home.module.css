@@ -1,0 +1,12 @@
+.home_page_text_container {
+  padding: 20px 100px 100px 10px;
+  color: rgb(245, 187, 112);
+}
+
+.home_page_text_container p {
+  font-size: 20px;
+}
+
+.home_page_text_container h2 {
+  font-size: 40px;
+}
