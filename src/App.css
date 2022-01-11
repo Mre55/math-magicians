@@ -1,6 +1,18 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: 'Montserrat', sans-serif;
+}
+
 body {
   background: #314755;
   background: -webkit-linear-gradient(right, #26a0da, #314755);
   background: linear-gradient(to right, #26a0da, #314755);
-  padding: 10px;
+}
+
+.main-container {
+  height: 100vh;
 }

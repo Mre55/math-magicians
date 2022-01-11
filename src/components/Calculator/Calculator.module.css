@@ -1,6 +1,6 @@
 .calculator_container {
   display: flex;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .left_section {
@@ -8,6 +8,10 @@
   width: 50%;
   color: white;
   border-radius: 8px;
+}
+
+.left_section h2 {
+  font-weight: 300;
 }
 
 .right_section {
