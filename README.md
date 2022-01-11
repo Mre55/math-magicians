@@ -2,7 +2,7 @@
 
 This project is about Math magicians Calculator App, that allows users to make simple calculations and read a random math-related quote.
 
-<img width="765" alt="Screen Shot 2021-12-08 at 6 16 50 PM" src="https://user-images.githubusercontent.com/34578631/148131975-8f1d3e8c-c3b9-4dc1-9d22-96c84ad2b193.png">
+<img width="765" alt="Screen Shot 2021-12-08 at 6 16 50 PM" src="https://user-images.githubusercontent.com/34578631/148931488-5eab3eda-20c9-4937-ab6a-35a2deb24b44.png">
 
 
 ## Built With
