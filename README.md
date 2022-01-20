@@ -13,9 +13,17 @@ This project is about Math magicians Calculator App, that allows users to make s
 - Frameworks - React
 - Tools used - Git(version control), Stylelint(style linting), ESLint(Javascript linting).
 
-## Live Demo
+## Live GitHub Demo
 
-[Live Demo link](https://mre55.github.io/math-magicians/)
+[Live Demo GitHub link](https://mre55.github.io/math-magicians/)
+
+## Live Heroku Demo
+
+[Live Heroku link](https://react-math-magicians-heroku.herokuapp.com/)
+
+## Live Netlfiy Demo
+
+[Live Netlify link](https://react-math-magicians.netlify.app/)
 
 ## Getting Started
 
