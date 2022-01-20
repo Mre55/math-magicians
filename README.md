@@ -23,7 +23,7 @@ This project is about Math magicians Calculator App, that allows users to make s
 
 ## Live Netlfiy Demo
 
-[Live Netlify link](https://react-math-magicians.netlify.app/)
+[Live Netlify link](https://react-math-magicians-deploy.netlify.app/)
 
 ## Getting Started
 
